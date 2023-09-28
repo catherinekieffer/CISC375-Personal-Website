@@ -13,10 +13,16 @@
   }
 }
 
+
+
 /* My added CSS */
 
 h3 {
   text-align: center;
+}
+
+h4 {
+  font-weight: bold;
 }
 
 img {
@@ -29,6 +35,31 @@ img {
 ul {
   list-style-type: none;
 }
+
+div {
+  background-color:#ADD8E6;
+  text-align: center;
+  padding: 2rem;
+}
+
+
+.off-canvas-content {
+  background-color: white;
+  text-align: left;
+}
+
+#leftCanvas ul {
+  list-style: none;
+}
+
+.resume {
+  text-align: left;
+}
+
+
+
+
+
 
 
 
