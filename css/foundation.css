@@ -26,8 +26,6 @@ h4 {
 }
 
 img {
-  /* margin-left: 70px; this currently isn't doing antyihng */
-  /* could use pixels or percentage - pixels say always hvae this much white space */
   margin: 0 auto; /* This makes the image centered on the column  */
   padding: 1rem;
 }
@@ -56,7 +54,9 @@ div {
   text-align: left;
 }
 
-
+.button {
+  position: fixed;
+}
 
 
 
