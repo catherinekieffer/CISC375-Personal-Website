@@ -1,6 +1,11 @@
 # catherinekieffer.github.io
 This repo will contains the code for my personal website, which contains my resume, a little bit about me, and some fun projects! This project contributes to the convictions in St. Thomas in regards to human dignity, Faith and Reason, and Diversity. 
 
+# Accessing this site
+This link: https://catherinekieffer.github.io/
+Clicking this link will give you full access to all pages of my website
+
+# About the project
 Firstly, my website contectualizes my person into someone more than just a number or a random computer science student. This website allows others to see the dignity of the human person in a more full way, which is right in line with the University of St. Thomas's core values.
 
 Secondly, my website helps pursue faith and reason as I highlight here how I am a Catholic Studies minor which shows a commitment to a search for truth in the realm of Faith. St. Thomas gave me the opportunity to engage with the intellectual Catholic tradition while also pursuing my computer science major. St. Thomas encourages its students to pursue avenues other than just their major and this website allows me to share this passion of mine in a more full way.
